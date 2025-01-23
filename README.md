@@ -1,1 +1,2 @@
 # Simon-says-game
+The "Simon Says" game is a responsive, memory-based game built with HTML, CSS, and JavaScript. Players replicate a sequence of colored button flashes that becomes progressively longer and more challenging. It features a colorful, mobile-friendly interface, sound effects, and dynamic gameplay with randomized sequences. If players press the wrong button, the screen briefly flashes red to indicate a mistake and resets the game. The game also tracks and displays the player's current score and highest score, encouraging replayability and competition.
